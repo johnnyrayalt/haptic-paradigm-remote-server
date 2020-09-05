@@ -35,9 +35,9 @@
         "typescript": "3.9.7"
     },
     "devDependencies": {
-        "ts-node-dev": "1.0.0-pre.57",
         "prettier": "2.0.5",
-        "tslint": "6.1.2"
+        "ts-node-dev": "1.0.0-pre.57",
+        "tslint": "^6.1.2"
     },
     "bugs": {
         "url": "https://github.com/chloealxandra/maxmspserver/issues"
